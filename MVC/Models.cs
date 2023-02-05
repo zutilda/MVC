@@ -59,7 +59,7 @@ namespace MVC
                 case 3:
                     return (one / two).ToString();
                 default:
-                    return " Выберите операцию";
+                    return "Выберите операцию";
             }
         }
 
